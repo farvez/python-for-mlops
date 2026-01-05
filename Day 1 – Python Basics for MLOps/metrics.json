@@ -1,0 +1,8 @@
+{
+    "accuracy": 0.98,
+    "precision": 0.97,
+    "recall": 0.99,
+    "f1_score": 0.98,
+    "training_time_seconds": 125.45
+  }
+  
