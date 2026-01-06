@@ -24,6 +24,7 @@ Learn how real MLOps pipelines ingest data, validate quality, and fail safely be
 ---
 
 ### Folder Structure
+```bash
 day03_data_handling/
 │
 ├── data/
@@ -36,7 +37,7 @@ day03_data_handling/
 ├── validator.py
 ├── data_pipeline.py
 └── README.md
-
+```
 
 ---
 
