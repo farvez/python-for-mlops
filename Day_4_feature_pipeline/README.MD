@@ -41,6 +41,7 @@ day04_feature_pipeline/
 ├── dataset_pipeline.py
 └── README.md
 
+```
 ---
 
 ---
@@ -57,6 +58,7 @@ day04_feature_pipeline/
 ### How to Run
 ```bash
 python dataset_pipeline.py
+```
 
 ---
 Expected output:
