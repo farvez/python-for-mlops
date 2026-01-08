@@ -60,7 +60,9 @@ python data_pipeline.py
 If data issues are found:
 
 Pipeline exits with error
+
 artifacts/data_quality_report.txt is created
 
 If data is valid:
+
 Pipeline completes successfully
