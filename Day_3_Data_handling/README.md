@@ -24,7 +24,7 @@ Learn how real MLOps pipelines ingest data, validate quality, and fail safely be
 ---
 
 ### Folder Structure
-```bash
+```text
 day03_data_handling/
 │
 ├── data/
@@ -56,12 +56,11 @@ day03_data_handling/
 python data_pipeline.py
 
 ```
+---
 If data issues are found:
 
 Pipeline exits with error
-
 artifacts/data_quality_report.txt is created
 
 If data is valid:
-
 Pipeline completes successfully
