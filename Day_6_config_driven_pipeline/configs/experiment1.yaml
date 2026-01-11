@@ -1,0 +1,3 @@
+experiment_name: exp_baseline
+accuracy_threshold: 0.8
+random_seed: 42

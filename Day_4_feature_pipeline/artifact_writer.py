@@ -8,3 +8,6 @@ def write_csv(data, path):
         writer = csv.DictWriter(f,fieldnames=data[0].keys())
         writer.writeheader()
         writer.writerows(data)
+
+
+
