@@ -1,5 +1,5 @@
 import yaml
 
-df load_config(path):
-with open(path) as f:
-    return yamal.safe_load(f)
+def load_config(path):
+    with open(path) as f:
+        return yaml.safe_load(f)

@@ -1,0 +1,13 @@
+{
+  "experiment": "exp_strict",
+  "config": {
+    "experiment_name": "exp_strict",
+    "accuracy_threshold": 0.85,
+    "random_seed": 42
+  },
+  "metrics": {
+    "accuracy": 0.83,
+    "loss": 0.31,
+    "status": "REJECTED"
+  }
+}
