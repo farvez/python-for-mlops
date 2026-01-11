@@ -24,5 +24,5 @@ if all_errors:
     logging.error("Data quality check failed")
     raise SystemExit(1)
 
-logging.INFO("Data quality check passed")
+logging.INFO("Data quality check is passed")
 
