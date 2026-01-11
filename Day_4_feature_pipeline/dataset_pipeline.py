@@ -25,4 +25,4 @@ train, val = train_val_split(features)
 write_csv(train, ARTIFACTS / "train.csv")
 write_csv(val, ARTIFACTS / "val.csv")
 
-logging.info("Dataset pipeline completed successfully")
+logging.info("Dataset pipeline is completed successfully")
