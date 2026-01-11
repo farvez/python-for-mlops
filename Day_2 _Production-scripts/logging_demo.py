@@ -7,4 +7,4 @@ logging.basicConfig(
 
 logging.info("pipeline started")
 logging.warning("low accuracy detected")
-logging.error("Training failed")
+logging.error("Training is failed")
