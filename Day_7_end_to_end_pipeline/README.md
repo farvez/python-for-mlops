@@ -80,6 +80,7 @@ metrics.json – training and evaluation metrics
 status.txt – approval or rejection decision
 
 All outputs are stored under the artifacts/ directory.
+
 ---
 ### Key MLOps Takeaway
 MLOps pipelines are about orchestrating reliable, reproducible steps — not about writing complex models.
