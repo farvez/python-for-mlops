@@ -66,8 +66,9 @@ day07_end_to_end_pipeline/
 ### How to Run
 ```bash
 python pipeline.py
-This single command executes the entire pipeline.
+
 ```
+This single command executes the entire pipeline.
 ---
 ### Pipeline Outputs
 
