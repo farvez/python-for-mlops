@@ -1,13 +1,12 @@
 import random
 
-def train_model(train_data, seed=42):
+def train_model(seed):
     random.seed(seed)
 
-    #simulate training accuracy
     accuracy = round(random.uniform(0.7, 0.9), 2)
     loss = round(random.uniform(0.3, 0.6), 2)
 
-    return{
+    return {
         "accuracy": accuracy,
         "loss": loss
     }
