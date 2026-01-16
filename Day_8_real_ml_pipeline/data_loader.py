@@ -6,8 +6,8 @@ def load_data(path):
     with open(path) as f:
         reader = csv.DictReader(f)
         for row in reader:
-            X.append([int(row["age"]), [int(row["salary"])]])
-            y.append([int(row["label"])])
+            X.append([int(row["age"]), int(row["salary"])])
+            y.append(int(row["label"]))
     return X, y
 
 # if __name__ == "__main__":
