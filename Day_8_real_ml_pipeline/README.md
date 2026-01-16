@@ -75,14 +75,16 @@ pip install scikit-learn joblib
 python pipeline.py
 ```
 ---
-###Pipeline Outputs
+### Pipeline Outputs
 After running the pipeline, the following artifacts are created:
 
 artifacts/model.pkl – trained ML model
 
 artifacts/metrics.json – evaluation metrics
+
 ---
 
-###Key MLOps Takeaway
+### Key MLOps Takeaway
+---
 In MLOps, models and metrics are first-class artifacts.
 Training is important, but evaluation and reproducibility matter more.
