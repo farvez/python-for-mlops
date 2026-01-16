@@ -70,7 +70,7 @@ Install dependencies (once):
 pip install scikit-learn joblib
 
 ```
-###Run the pipeline:
+### Run the pipeline:
 ```bash
 python pipeline.py
 ```
@@ -85,6 +85,6 @@ artifacts/metrics.json – evaluation metrics
 ---
 
 ### Key MLOps Takeaway
----
+
 In MLOps, models and metrics are first-class artifacts.
 Training is important, but evaluation and reproducibility matter more.
