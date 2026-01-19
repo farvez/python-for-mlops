@@ -92,7 +92,7 @@ Example metrics.json:
 ```
 ---
 
-###Key MLOps Takeaway
+### Key MLOps Takeaway
 
 In MLOps, validation metrics matter more than training metrics.
 A model is only as good as its performance on unseen data.
