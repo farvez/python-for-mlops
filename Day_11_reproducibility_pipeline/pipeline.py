@@ -28,6 +28,7 @@ def run_pipeline(seed, output_name):
 def main():
     run_pipeline(seed=42, output_name="run_seed_42.json")
     run_pipeline(seed=42, output_name="run_seed_42_repeat.json")
+    run_pipeline(seed=99, output_name="run_seed_99.json")
 
     print("Both runs completed")
 
