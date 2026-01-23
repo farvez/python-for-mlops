@@ -1,0 +1,6 @@
+{
+  "seed": 42,
+  "metrics": {
+    "validation_accuracy": 1.0
+  }
+}
