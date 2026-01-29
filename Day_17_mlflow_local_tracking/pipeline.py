@@ -3,6 +3,8 @@ import mlflow.sklearn
 from train import train
 
 def main():
+    # tracking_uri = "sqlite:///mlflow.db" # Using SQLite is more stable than folders
+    # mlflow.set_tracking_uri(tracking_uri)
     mlflow.set_experiment("credit-approval-mlops")
 
     with mlflow.start_run():
